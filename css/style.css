@@ -9,3 +9,9 @@ header{
     height: 100px;
     background-color: #e579e6 ;
 }
+
+/* main */
+main{
+    height: 400px; /*to remove when filled with text*/
+    background-color: #e1d67a;
+}
