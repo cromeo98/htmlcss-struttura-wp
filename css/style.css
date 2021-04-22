@@ -41,6 +41,28 @@ main{
     margin: 20px 0;
 }
 
+#columns::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.float-left{
+    float: left;
+}
+
+.column{
+    height: 100%; /*to remove when filled with text*/
+    background-color: black; /*to remove when verified*/
+    width: 20%;
+}
+
+.center{
+    height: 100%; /*to remove when filled with text*/
+    background-color:black; /*to remove when verified*/
+    width: 60%;
+}
+
 /* footer */
 footer{
     height: 50px;
