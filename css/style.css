@@ -60,7 +60,8 @@ main{
 .center{
     height: 100%; /*to remove when filled with text*/
     background-color:black; /*to remove when verified*/
-    width: 60%;
+    width: calc(60% - 20px);
+    margin: 0 10px;
 }
 
 /* footer */
