@@ -19,6 +19,7 @@ main{
 #jumbotron{
     height: 400px; /*to remove when filled with text*/
     background-color: #e1d67a;
+    margin-bottom: 20px;
 }
 
 #core-content{
