@@ -20,3 +20,9 @@ header{
     height: 500px; /*to remove when filled with text*/
     background-color: #0086ff;
 }
+
+/* footer */
+footer{
+    height: 50px;
+    background-color: #8801fe;
+}
