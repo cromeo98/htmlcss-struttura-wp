@@ -11,6 +11,11 @@ header{
 }
 
 /* main */
+
+main{
+    margin: 20px 0 8px;
+}
+
 #jumbotron{
     height: 400px; /*to remove when filled with text*/
     background-color: #e1d67a;
