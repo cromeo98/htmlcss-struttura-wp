@@ -35,6 +35,12 @@ main{
     background-color: #abcfe7;
 }
 
+#columns{
+    height: 400px; /*to remove when filled with text*/
+    background-color: #abcfe7;
+    margin: 20px 0;
+}
+
 /* footer */
 footer{
     height: 50px;
