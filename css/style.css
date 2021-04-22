@@ -53,13 +53,11 @@ main{
 
 .column{
     height: 100%; /*to remove when filled with text*/
-    background-color: black; /*to remove when verified*/
     width: 20%;
 }
 
 .center{
     height: 100%; /*to remove when filled with text*/
-    background-color:black; /*to remove when verified*/
     width: calc(60% - 20px);
     margin: 0 10px;
 }
