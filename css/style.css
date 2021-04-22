@@ -4,6 +4,10 @@
     padding: 0;
 }
 
+body{
+    margin: 0 50px;
+}
+
 /* header */
 header{
     height: 100px;
@@ -11,7 +15,6 @@ header{
 }
 
 /* main */
-
 main{
     margin: 20px 0 8px;
 }
@@ -25,6 +28,11 @@ main{
 #core-content{
     height: 500px; /*to remove when filled with text*/
     background-color: #0086ff;
+}
+
+#title{
+    height: 60px; /*to remove when filled with text*/
+    background-color: #abcfe7;
 }
 
 /* footer */
